@@ -23,9 +23,8 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     UITableViewCell *cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"CurrentCell"];
-    cell.textLabel.text = @"Arun";
+    cell.textLabel.text = @"Anish";
     cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
-    
     
     return cell;
 }
