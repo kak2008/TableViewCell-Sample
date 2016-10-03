@@ -4,8 +4,8 @@ This app is a sample project which is mainly focused on table view cell.
 
 ### Requirements
 
-Xcode 7.3
-Objective - C
+* Xcode 7.3
+* Objective - C
 
 ### License
 
